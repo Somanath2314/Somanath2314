@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/somanath-mikalie/">Somanath Mikalie</a> </h1>
 
-<!--
-**Somanath2314/Somanath2314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Description -->
+<p align="center">
+  Prefinal year Information Technology student at BMS College of Engineering, graduating in 2026.
+</p>
 
-Here are some ideas to get you started:
+<!-- Placeholder for other links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/somanath-mikalie/">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨🏻‍💻 **About Me**
+✨ Aspiring developer passionate about building robust applications using MERN (MongoDB, Express.js, React, Node.js) and Java.<br>
+🌱 Currently enhancing my skills in Java and full-stack development.<br>
+💬 Open to collaboration on projects and sharing knowledge.<br>
+
+---
+
+### 🛠 **Tech Stack**
+- **Languages:** JavaScript, Java
+- **Frameworks & Libraries:** React, Express.js, Node.js
+- **Database:** MongoDB
+- **Tools:** Git, Visual Studio Code
+- **Other Skills:** CRUD operations, REST APIs
+
+---
+
+### ⚙️ **GitHub Analytics**
+[![Somanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somanath2314&show_icons=true&theme=radical)](https://github.com/Somanath2314)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somanath2314&layout=compact)](https://github.com/Somanath2314)
+
+---
+
+### 📚 **Projects**
+- ✨ Placeholder for Projects  
+- ✨ Placeholder for Projects  
+
+---
+
+Feel free to share more details if you'd like further customization!
