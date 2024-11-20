@@ -1,44 +1,57 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/somanath-mikalie/">Somanath Mikalie</a> </h1>
+<h1 align="center">Hi there, I'm Somanath Mikali 👋</h1>
 
-<!-- Profile Description -->
 <p align="center">
-  Prefinal year Information Technology student at BMS College of Engineering, graduating in 2026.
-</p>
-
-<!-- Placeholder for other links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/somanath-mikalie/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/somanath-mikali/">LinkedIn</a> | 📧 <a href="mailto:somanath.r.mikali@gmail.com">somanath.r.mikali@gmail.com</a>
 </p>
 
 ---
 
-### 👨🏻‍💻 **About Me**
-✨ Aspiring developer passionate about building robust applications using MERN (MongoDB, Express.js, React, Node.js) and Java.<br>
-🌱 Currently enhancing my skills in Java and full-stack development.<br>
-💬 Open to collaboration on projects and sharing knowledge.<br>
+### 👨🏻‍💻 About Me  
+- 💻 **Aspiring Java Developer** | Pre-final year IT student at BMS College of Engineering, graduating in 2026.  
+- 🌱 Passionate about Java, CRUD operations, JDBC, and the MERN stack (MongoDB, Express.js, React, Node.js).  
+- 🎯 Aiming to solve real-world problems through innovative tech solutions.  
 
 ---
 
-### 🛠 **Tech Stack**
-- **Languages:** JavaScript, Java
-- **Frameworks & Libraries:** React, Express.js, Node.js
-- **Database:** MongoDB
-- **Tools:** Git, Visual Studio Code
-- **Other Skills:** CRUD operations, REST APIs
+### 🛠 Tech Stack  
+#### Languages:  
+- **Java**  
+- **MERN** (MongoDB, Express.js, React, Node.js)  
+
+#### Tools:  
+- Git  
+- Visual Studio Code  
+
+#### Databases:  
+- MongoDB  
 
 ---
 
-### ⚙️ **GitHub Analytics**
-[![Somanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somanath2314&show_icons=true&theme=radical)](https://github.com/Somanath2314)
+### 📚 Projects  
+#### [Vehicle Parking Spot Booking Web Application](https://github.com/Visheshpgowda/ParkingslotsProject)  
+A web application that allows users to book vehicle parking spots in college prior to arrival.  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somanath2314&layout=compact)](https://github.com/Somanath2314)
+**Features:**  
+- User authentication and authorization  
+- View available parking spots  
+- Book parking spots in advance  
+- Manage and cancel bookings  
+- Responsive design  
+
+**Technologies:** Node.js, npm, MongoDB Atlas  
 
 ---
 
-### 📚 **Projects**
-- ✨ Placeholder for Projects  
-- ✨ Placeholder for Projects  
+### 📈 GitHub Stats  
+![Somanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somanath2314&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Somanath2314&layout=compact&theme=radical)  
 
 ---
 
-Feel free to share more details if you'd like further customization!
+### 📬 Contact  
+Feel free to reach out for collaborations or queries!  
+- 📧 **Email:** [somanath.r.mikali@gmail.com](mailto:somanath.r.mikali@gmail.com)  
+
+---
+
+<b>Show some ❤️ by starring my repositories!</b>
