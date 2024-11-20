@@ -14,16 +14,19 @@
 ---
 
 ### 🛠 Tech Stack  
+- **MERN** (MongoDB, Express.js, React, Node.js)
 #### Languages:  
 - **Java**  
-- **MERN** (MongoDB, Express.js, React, Node.js)  
+- **Python**
+- **C++**
 
 #### Tools:  
 - Git  
-- Visual Studio Code  
+  
 
 #### Databases:  
-- MongoDB  
+- MongoDB
+- Postgresql
 
 ---
 
