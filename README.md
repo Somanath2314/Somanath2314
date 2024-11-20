@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 About Me  
 - 💻 **Aspiring Java Developer** | Pre-final year IT student at BMS College of Engineering, graduating in 2026.  
-- 🌱 Passionate about Java, CRUD operations, JDBC, and the MERN stack (MongoDB, Express.js, React, Node.js).  
+- 🌱 Passionate about leveraging emerging technologies to create a better future while maintaining harmony between innovation and simplicity.  
 - 🎯 Aiming to solve real-world problems through innovative tech solutions.  
 
 ---
