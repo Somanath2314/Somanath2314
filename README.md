@@ -70,24 +70,60 @@ const somanath = {
 ## 🏆 Projects
 
 <div align="center">
+  <a href="https://github.com/Visheshpgowda/Hackthon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visheshpgowda&repo=Hackthon&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Somanath2314/disease-prediction-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Somanath2314&repo=disease-prediction-app&theme=tokyonight" />
+  </a>
   <a href="https://github.com/Visheshpgowda/ParkingslotsProject">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visheshpgowda&repo=ParkingslotsProject&theme=tokyonight" />
   </a>
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=5D8BF4&center=true&vCenter=true&random=false&width=800&lines=Featured+Projects" alt="Typing SVG" />
+</div>
+
+### 🏫 School Management System
+
+**A streamlined educational management platform for modern schools**
+
+✨ **Key Features**: Dashboard analytics, attendance tracking, timetable management, role-based access
+
+🔧 **Tech Stack**: MongoDB, Express.js, React, Node.js
+
+🌐 **Live Demo**: [School Management System](https://hackathon-frontend-lime.vercel.app/)
+
+🔗 [GitHub Repository](https://github.com/Visheshpgowda/Hackthon)
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=✧･ﾟ:+*✧･ﾟ:*+:･ﾟ✧*:･ﾟ✧+:･ﾟ✧*:･ﾟ✧+:･ﾟ✧*:･ﾟ✧" alt="Separator" />
+</div>
+
+### 🩺 Chronic Disease Prediction System
+
+**ML-powered prediction for asthma, diabetes, stroke, and heart disease risks**
+
+✨ **Key Features**: Multi-disease prediction, ensemble learning models, user-friendly interface
+
+🔧 **Tech Stack**: React, Flask, XGBoost, Neural Networks
+
+🌐 **Live Demo**: [Disease Prediction App](https://disease-prediction-app.vercel.app/)
+
+🔗 [GitHub Repository](https://github.com/Somanath2314/disease-prediction-app)
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=✧･ﾟ:+*✧･ﾟ:*+:･ﾟ✧*:･ﾟ✧+:･ﾟ✧*:･ﾟ✧+:･ﾟ✧*:･ﾟ✧" alt="Separator" />
+</div>
+
 ### 🅿️ Vehicle Parking Spot Booking Web App
 
-**A college parking management solution that simplifies campus parking**
+**Smart parking solution that digitizes campus parking management**
 
-✨ **Features**:
-- User authentication & role-based authorization
-- Real-time parking spot availability visualization
-- Advance booking with time slot selection
-- QR code generation for parking validation
-- Booking history & management
-- Admin dashboard with analytics
+✨ **Key Features**: Real-time availability, QR code validation, booking system, admin analytics
 
-🔧 **Tech Stack**: Node.js, Express.js, MongoDB Atlas, JWT, RESTful API
+🔧 **Tech Stack**: Node.js, Express.js, MongoDB Atlas, JWT
 
 🔗 [GitHub Repository](https://github.com/Visheshpgowda/ParkingslotsProject)
 
