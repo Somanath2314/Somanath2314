@@ -16,7 +16,7 @@
 
 ```javascript
 const somanath = {
-  designation: "SDE intern at Akamai Technologies"
+  designation: "SDE intern at Akamai Technologies",
   education: "IT Student @ BMS College of Engineering",
   graduation: 2026,
   interests: ["Backend Development", "Java Ecosystem", "Cloud Computing", "System Design"],
