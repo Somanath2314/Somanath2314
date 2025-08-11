@@ -18,7 +18,8 @@
 const somanath = {
   designation: "SDE intern at Akamai Technologies",
   achivements: [
-      Natinoal Runners Up at Flipkart Grid 7.0
+      Natinoal Runners Up at Flipkart Grid 7.0,
+      Finalists At InvokEd - empowering Education
     ]
   education: "IT Student @ BMS College of Engineering",
   graduation: 2026,
