@@ -17,6 +17,9 @@
 ```javascript
 const somanath = {
   designation: "SDE intern at Akamai Technologies",
+  achivements: [
+      Natinoal Runners Up at Flipkart Grid 7.0
+    ]
   education: "IT Student @ BMS College of Engineering",
   graduation: 2026,
   interests: ["Backend Development", "Java Ecosystem", "Cloud Computing", "System Design"],
