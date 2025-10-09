@@ -26,7 +26,7 @@ const somanath = {
   ]
   education: "IT Student @ BMS College of Engineering",
   graduation: 2026,
-  interests: ["Backend Development", "Java Ecosystem", "Cloud Computing", "System Design"],
+  interests: ["Backend Development", "Java Ecosystem", "Cloud Computing", "System Design", "AI Engineering"],
   currentlyLearning: ["Spring Boot", "AWS", "Microservices"],
   goal: "Developing scalable applications that solve real-world problems"
 };
