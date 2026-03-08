@@ -16,8 +16,9 @@
 
 ```javascript
 const somanath = {
-  designation: "Upcoming SDE intern at Ringcentral",
+  designation: "SDE intern at Ringcentral",
   achivements: [
+      Received Internship + PBC offer from the flipkart
       Natinoal Runners Up at Flipkart Grid 7.0,
       Finalists At InvokEd - empowering Education
     ],
